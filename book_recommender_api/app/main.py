@@ -4,13 +4,15 @@ from pymongo import MongoClient
 import os
 from dotenv import load_dotenv
 
-from quiz import router as quiz_router
-from personality import router as personality_router
-from explain import router as explain_router
-from profile import router as profile_router
+# ✅ IMPORTS ABSOLUTOS
+from book_recommender_api.app.quiz import router as quiz_router
+from book_recommender_api.app.personality import router as personality_router
+from book_recommender_api.app.explain import router as explain_router
+from book_recommender_api.app.profile import router as profile_router
 
-load_dotenv()
+# ✅ Crea la app ANTES de registrar routers
 app = FastAPI()
+load_dotenv()
 
 # Conexión MongoDB
 MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017")

@@ -1,6 +1,6 @@
 # book_recommender_api/app/explain.py
 from fastapi import APIRouter, HTTPException
-from .database import get_db
+from book_recommender_api.app.database import get_db  # ✅
 from .recommender import compute_score
 from bson.objectid import ObjectId
 
