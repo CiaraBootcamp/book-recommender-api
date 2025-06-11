@@ -1,0 +1,1168 @@
+[
+  {
+    "title": "A Game of Thrones",
+    "author": "George R. R. Martin",
+    "rating": 4.45,
+    "votes": 2600000,
+    "subgenre": "Fantasía Épica"
+  },
+  {
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "rating": 4.67,
+    "votes": 613000,
+    "subgenre": "Fantasía Épica"
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "rating": 4.52,
+    "votes": 1000000,
+    "subgenre": "Fantasía Épica"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "rating": 4.29,
+    "votes": 4300000,
+    "subgenre": "Fantasía Épica"
+  },
+  {
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "rating": 4.44,
+    "votes": 500000,
+    "subgenre": "Fantasía Épica"
+  },
+  {
+    "title": "Six of Crows",
+    "author": "Leigh Bardugo",
+    "rating": 4.45,
+    "votes": 100000,
+    "subgenre": "Fantasía Urbana"
+  },
+  {
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "rating": 4.11,
+    "votes": 500000,
+    "subgenre": "Fantasía Urbana"
+  },
+  {
+    "title": "The Bear and the Nightingale",
+    "author": "Katherine Arden",
+    "rating": 4.07,
+    "votes": 100000,
+    "subgenre": "Fantasía Urbana"
+  },
+  {
+    "title": "The Fifth Season",
+    "author": "N. K. Jemisin",
+    "rating": 4.33,
+    "votes": 175000,
+    "subgenre": "Fantasía Urbana"
+  },
+  {
+    "title": "Jonathan Strange & Mr Norrell",
+    "author": "Susanna Clarke",
+    "rating": 3.8,
+    "votes": 100000,
+    "subgenre": "Fantasía Urbana"
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "rating": 4.26,
+    "votes": 800000,
+    "subgenre": "Fantasía Mitológica"
+  },
+  {
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "rating": 4.33,
+    "votes": 1200000,
+    "subgenre": "Fantasía Mitológica"
+  },
+  {
+    "title": "The Lost Hero",
+    "author": "Rick Riordan",
+    "rating": 4.02,
+    "votes": 200000,
+    "subgenre": "Fantasía Mitológica"
+  },
+  {
+    "title": "Norse Mythology",
+    "author": "Neil Gaiman",
+    "rating": 4.11,
+    "votes": 130000,
+    "subgenre": "Fantasía Mitológica"
+  },
+  {
+    "title": "The Silence of the Girls",
+    "author": "Pat Barker",
+    "rating": 3.82,
+    "votes": 40000,
+    "subgenre": "Fantasía Mitológica"
+  },
+  {
+    "title": "The Love Hypothesis",
+    "author": "Ali Hazelwood",
+    "rating": 4.38,
+    "votes": 200000,
+    "subgenre": "Romance Contemporáneo"
+  },
+  {
+    "title": "The Hating Game",
+    "author": "Sally Thorne",
+    "rating": 4.11,
+    "votes": 400000,
+    "subgenre": "Romance Contemporáneo"
+  },
+  {
+    "title": "Beach Read",
+    "author": "Emily Henry",
+    "rating": 4.11,
+    "votes": 400000,
+    "subgenre": "Romance Contemporáneo"
+  },
+  {
+    "title": "The Kiss Quotient",
+    "author": "Helen Hoang",
+    "rating": 4.19,
+    "votes": 270000,
+    "subgenre": "Romance Contemporáneo"
+  },
+  {
+    "title": "People We Meet on Vacation",
+    "author": "Emily Henry",
+    "rating": 4.28,
+    "votes": 250000,
+    "subgenre": "Romance Contemporáneo"
+  },
+  {
+    "title": "Twilight",
+    "author": "Stephenie Meyer",
+    "rating": 3.58,
+    "votes": 5000000,
+    "subgenre": "Romance Paranormal"
+  },
+  {
+    "title": "Dark Lover",
+    "author": "J. R. Ward",
+    "rating": 4.07,
+    "votes": 90000,
+    "subgenre": "Romance Paranormal"
+  },
+  {
+    "title": "A Discovery of Witches",
+    "author": "Deborah Harkness",
+    "rating": 3.94,
+    "votes": 140000,
+    "subgenre": "Romance Paranormal"
+  },
+  {
+    "title": "City of Bones",
+    "author": "Cassandra Clare",
+    "rating": 4.12,
+    "votes": 650000,
+    "subgenre": "Romance Paranormal"
+  },
+  {
+    "title": "Mexican Gothic",
+    "author": "Silvia Moreno-Garcia",
+    "rating": 4.05,
+    "votes": 60000,
+    "subgenre": "Romance Paranormal"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "rating": 4.21,
+    "votes": 3600000,
+    "subgenre": "Ciencia Ficción Distópica"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "rating": 3.99,
+    "votes": 600000,
+    "subgenre": "Ciencia Ficción Distópica"
+  },
+  {
+    "title": "The Handmaid’s Tale",
+    "author": "Margaret Atwood",
+    "rating": 4.13,
+    "votes": 800000,
+    "subgenre": "Ciencia Ficción Distópica"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "rating": 3.98,
+    "votes": 500000,
+    "subgenre": "Ciencia Ficción Distópica"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "rating": 3.99,
+    "votes": 600000,
+    "subgenre": "Ciencia Ficción Distópica"
+  },
+  {
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "rating": 3.91,
+    "votes": 200000,
+    "subgenre": "Ciencia Ficción Cyberpunk"
+  },
+  {
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "rating": 4.05,
+    "votes": 200000,
+    "subgenre": "Ciencia Ficción Cyberpunk"
+  },
+  {
+    "title": "Altered Carbon",
+    "author": "Richard K. Morgan",
+    "rating": 4.04,
+    "votes": 150000,
+    "subgenre": "Ciencia Ficción Cyberpunk"
+  },
+  {
+    "title": "Do Androids Dream of Electric Sheep?",
+    "author": "Philip K. Dick",
+    "rating": 3.88,
+    "votes": 500000,
+    "subgenre": "Ciencia Ficción Cyberpunk"
+  },
+  {
+    "title": "Blade Runner",
+    "author": "Philip K. Dick",
+    "rating": 3.88,
+    "votes": 500000,
+    "subgenre": "Ciencia Ficción Cyberpunk"
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "rating": 4.06,
+    "votes": 2500000,
+    "subgenre": "Novela Negra Thriller"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "rating": 4.13,
+    "votes": 1300000,
+    "subgenre": "Novela Negra Thriller"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "author": "Thomas Harris",
+    "rating": 4.12,
+    "votes": 600000,
+    "subgenre": "Novela Negra Thriller"
+  },
+  {
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "rating": 4.24,
+    "votes": 650000,
+    "subgenre": "Novela Negra Thriller"
+  },
+  {
+    "title": "The Woman in the Window",
+    "author": "A. J. Finn",
+    "rating": 3.97,
+    "votes": 400000,
+    "subgenre": "Novela Negra Thriller"
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "rating": 4.23,
+    "votes": 1200000,
+    "subgenre": "Terror Sobrenatural"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "rating": 4.13,
+    "votes": 500000,
+    "subgenre": "Terror Sobrenatural"
+  },
+  {
+    "title": "Mexican Gothic",
+    "author": "Silvia Moreno-Garcia",
+    "rating": 4.05,
+    "votes": 60000,
+    "subgenre": "Terror Sobrenatural"
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "author": "Shirley Jackson",
+    "rating": 4.12,
+    "votes": 250000,
+    "subgenre": "Terror Sobrenatural"
+  },
+  {
+    "title": "Carrie",
+    "author": "Stephen King",
+    "rating": 3.97,
+    "votes": 450000,
+    "subgenre": "Terror Sobrenatural"
+  },
+  {
+    "title": "The Very Hungry Caterpillar",
+    "author": "Eric Carle",
+    "rating": 4.32,
+    "votes": 300000,
+    "subgenre": "Infantil – Cuento ilustrado"
+  },
+  {
+    "title": "Where the Wild Things Are",
+    "author": "Maurice Sendak",
+    "rating": 4.24,
+    "votes": 330000,
+    "subgenre": "Infantil – Cuento ilustrado"
+  },
+  {
+    "title": "Goodnight Moon",
+    "author": "Margaret Wise Brown",
+    "rating": 4.29,
+    "votes": 200000,
+    "subgenre": "Infantil – Cuento ilustrado"
+  },
+  {
+    "title": "Don't Let the Pigeon Drive the Bus!",
+    "author": "Mo Willems",
+    "rating": 4.25,
+    "votes": 95000,
+    "subgenre": "Infantil – Cuento ilustrado"
+  },
+  {
+    "title": "The Snowy Day",
+    "author": "Ezra Jack Keats",
+    "rating": 4.12,
+    "votes": 75000,
+    "subgenre": "Infantil – Cuento ilustrado"
+  },
+  {
+    "title": "Conan the Barbarian",
+    "author": "Robert E. Howard",
+    "year": 1932,
+    "rating": 4.22,
+    "num_ratings": "75,000+",
+    "genres": [
+      "Fantasía"
+    ],
+    "subgenres": [
+      "Espada y brujería"
+    ],
+    "themes": [
+      "heroísmo",
+      "magia",
+      "conflicto"
+    ],
+    "emotion_tags": [
+      "emoción",
+      "peligro"
+    ],
+    "tone": "aventurero",
+    "style": "directo",
+    "language": "en",
+    "isbn": "9780345461513",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Outlander",
+    "author": "Diana Gabaldon",
+    "year": 1991,
+    "rating": 4.24,
+    "num_ratings": "1,000,000+",
+    "genres": [
+      "Romance"
+    ],
+    "subgenres": [
+      "Histórico"
+    ],
+    "themes": [
+      "amor",
+      "viajes en el tiempo",
+      "Escocia"
+    ],
+    "emotion_tags": [
+      "pasión",
+      "aventura"
+    ],
+    "tone": "emocional",
+    "style": "narrativo",
+    "language": "en",
+    "isbn": "9780440212560",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "rating": 4.23,
+    "num_ratings": "1,200,000+",
+    "genres": [
+      "Ciencia Ficción"
+    ],
+    "subgenres": [
+      "Space Opera"
+    ],
+    "themes": [
+      "poder",
+      "planetas",
+      "religión"
+    ],
+    "emotion_tags": [
+      "épica",
+      "asombro"
+    ],
+    "tone": "profundo",
+    "style": "rico en detalles",
+    "language": "en",
+    "isbn": "9780441013593",
+    "source": "Goodreads"
+  },
+  {
+    "title": "The Big Sleep",
+    "author": "Raymond Chandler",
+    "year": 1939,
+    "rating": 4.0,
+    "num_ratings": "200,000+",
+    "genres": [
+      "Novela Negra"
+    ],
+    "subgenres": [
+      "Detectives"
+    ],
+    "themes": [
+      "crimen",
+      "corrupción",
+      "misterio"
+    ],
+    "emotion_tags": [
+      "intriga",
+      "tensión"
+    ],
+    "tone": "cínico",
+    "style": "noir",
+    "language": "en",
+    "isbn": "9780394758282",
+    "source": "Goodreads"
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "year": 2019,
+    "rating": 4.12,
+    "num_ratings": "1,300,000+",
+    "genres": [
+      "Terror",
+      "Thriller"
+    ],
+    "subgenres": [
+      "Psicológico"
+    ],
+    "themes": [
+      "trauma",
+      "psicología",
+      "asesinato"
+    ],
+    "emotion_tags": [
+      "tensión",
+      "curiosidad"
+    ],
+    "tone": "intenso",
+    "style": "ágil",
+    "language": "en",
+    "isbn": "9781250301697",
+    "source": "Goodreads"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "rating": 3.89,
+    "num_ratings": "2,500,000+",
+    "genres": [
+      "Filosofía",
+      "Ficción"
+    ],
+    "subgenres": [
+      "Filosofía oriental"
+    ],
+    "themes": [
+      "destino",
+      "búsqueda",
+      "sabiduría"
+    ],
+    "emotion_tags": [
+      "inspiración",
+      "esperanza"
+    ],
+    "tone": "espiritual",
+    "style": "poético",
+    "language": "en",
+    "isbn": "9780061122415",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Kitchen Confidential",
+    "author": "Anthony Bourdain",
+    "year": 2000,
+    "rating": 4.07,
+    "num_ratings": "300,000+",
+    "genres": [
+      "Gastronomía"
+    ],
+    "subgenres": [
+      "Crónica culinaria"
+    ],
+    "themes": [
+      "restaurantes",
+      "vida culinaria",
+      "confesiones"
+    ],
+    "emotion_tags": [
+      "fascinación",
+      "adrenalina"
+    ],
+    "tone": "irreverente",
+    "style": "biográfico",
+    "language": "en",
+    "isbn": "9780060899226",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Leaves of Grass",
+    "author": "Walt Whitman",
+    "year": 1855,
+    "rating": 4.18,
+    "num_ratings": "95,000+",
+    "genres": [
+      "Poesía"
+    ],
+    "subgenres": [
+      "Poesía épica"
+    ],
+    "themes": [
+      "naturaleza",
+      "individualismo",
+      "humanidad"
+    ],
+    "emotion_tags": [
+      "asombro",
+      "conexión"
+    ],
+    "tone": "celebratorio",
+    "style": "verso libre",
+    "language": "en",
+    "isbn": "9780143039273",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Hatchet",
+    "author": "Gary Paulsen",
+    "year": 1986,
+    "rating": 3.97,
+    "num_ratings": "290,000+",
+    "genres": [
+      "Aventura"
+    ],
+    "subgenres": [
+      "Supervivencia"
+    ],
+    "themes": [
+      "naturaleza",
+      "resiliencia",
+      "autonomía"
+    ],
+    "emotion_tags": [
+      "suspenso",
+      "admiración"
+    ],
+    "tone": "reflexivo",
+    "style": "narrativo",
+    "language": "en",
+    "isbn": "9781416936473",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Emotional Intelligence",
+    "author": "Daniel Goleman",
+    "year": 1995,
+    "rating": 4.08,
+    "num_ratings": "130,000+",
+    "genres": [
+      "Psicología"
+    ],
+    "subgenres": [
+      "Psicología emocional"
+    ],
+    "themes": [
+      "autoconocimiento",
+      "inteligencia",
+      "emociones"
+    ],
+    "emotion_tags": [
+      "curiosidad",
+      "insight"
+    ],
+    "tone": "reflexivo",
+    "style": "ensayo",
+    "language": "en",
+    "isbn": "9780553383713",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "year": 1883,
+    "rating": 4.12,
+    "num_ratings": "80,000+",
+    "genres": [
+      "Filosofía"
+    ],
+    "subgenres": [
+      "Existencialismo"
+    ],
+    "themes": [
+      "voluntad de poder",
+      "superhombre",
+      "moral"
+    ],
+    "emotion_tags": [
+      "provocación",
+      "reflexión"
+    ],
+    "tone": "intelectual",
+    "style": "aforístico",
+    "language": "en",
+    "isbn": "9780140441185",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Essentials of Classic Italian Cooking",
+    "author": "Marcella Hazan",
+    "year": 1992,
+    "rating": 4.5,
+    "num_ratings": "30,000+",
+    "genres": [
+      "Gastronomía"
+    ],
+    "subgenres": [
+      "Recetario"
+    ],
+    "themes": [
+      "cocina tradicional",
+      "Italia",
+      "ingredientes"
+    ],
+    "emotion_tags": [
+      "fascinación",
+      "inspiración"
+    ],
+    "tone": "práctico",
+    "style": "culinario",
+    "language": "en",
+    "isbn": "9780394584041",
+    "source": "Goodreads"
+  },
+  {
+    "title": "The Narrow Road to the Deep North",
+    "author": "Matsuo Bashō",
+    "year": 1702,
+    "rating": 4.18,
+    "num_ratings": "15,000+",
+    "genres": [
+      "Poesía"
+    ],
+    "subgenres": [
+      "Haiku"
+    ],
+    "themes": [
+      "naturaleza",
+      "viaje",
+      "transitoriedad"
+    ],
+    "emotion_tags": [
+      "calma",
+      "admiración"
+    ],
+    "tone": "meditativo",
+    "style": "minimalista",
+    "language": "en",
+    "isbn": "9781590301710",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Into the Wild",
+    "author": "Jon Krakauer",
+    "year": 1996,
+    "rating": 4.0,
+    "num_ratings": "1,000,000+",
+    "genres": [
+      "Aventura"
+    ],
+    "subgenres": [
+      "Exploración",
+      "Selva/Desierto"
+    ],
+    "themes": [
+      "viaje",
+      "libertad",
+      "naturaleza"
+    ],
+    "emotion_tags": [
+      "soledad",
+      "búsqueda"
+    ],
+    "tone": "reflexivo",
+    "style": "narrativo",
+    "language": "en",
+    "isbn": "9780385486804",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "year": 1946,
+    "rating": 4.36,
+    "num_ratings": "500,000+",
+    "genres": [
+      "Psicología",
+      "Filosofía"
+    ],
+    "subgenres": [
+      "Psicología del desarrollo",
+      "Existencialismo"
+    ],
+    "themes": [
+      "sentido de la vida",
+      "superación",
+      "trauma"
+    ],
+    "emotion_tags": [
+      "esperanza",
+      "resiliencia"
+    ],
+    "tone": "humano",
+    "style": "ensayo autobiográfico",
+    "language": "en",
+    "isbn": "9780807014271",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "year": 180,
+    "rating": 4.29,
+    "num_ratings": "250,000+",
+    "genres": [
+      "Filosofía"
+    ],
+    "subgenres": [
+      "Estoicismo"
+    ],
+    "themes": [
+      "sabiduría",
+      "control emocional",
+      "ética personal"
+    ],
+    "emotion_tags": [
+      "serenidad",
+      "auto reflexión"
+    ],
+    "tone": "sereno",
+    "style": "aforístico",
+    "language": "en",
+    "isbn": "9780812968255",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Salt, Fat, Acid, Heat",
+    "author": "Samin Nosrat",
+    "year": 2017,
+    "rating": 4.39,
+    "num_ratings": "40,000+",
+    "genres": [
+      "Gastronomía"
+    ],
+    "subgenres": [
+      "Ensayo gastronómico"
+    ],
+    "themes": [
+      "sabores",
+      "técnica",
+      "educación culinaria"
+    ],
+    "emotion_tags": [
+      "curiosidad",
+      "placer"
+    ],
+    "tone": "didáctico",
+    "style": "visual",
+    "language": "en",
+    "isbn": "9781476753836",
+    "source": "Goodreads"
+  },
+  {
+    "title": "The Prophet",
+    "author": "Kahlil Gibran",
+    "year": 1923,
+    "rating": 4.26,
+    "num_ratings": "250,000+",
+    "genres": [
+      "Poesía"
+    ],
+    "subgenres": [
+      "Lírica amorosa"
+    ],
+    "themes": [
+      "amor",
+      "vida",
+      "alma"
+    ],
+    "emotion_tags": [
+      "inspiración",
+      "ternura"
+    ],
+    "tone": "espiritual",
+    "style": "poético",
+    "language": "en",
+    "isbn": "9780394404288",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "year": 1884,
+    "rating": 3.81,
+    "num_ratings": "1,200,000+",
+    "genres": [
+      "Aventura"
+    ],
+    "subgenres": [
+      "Marítima",
+      "Viajes"
+    ],
+    "themes": [
+      "libertad",
+      "amistad",
+      "injusticia"
+    ],
+    "emotion_tags": [
+      "aventura",
+      "humor"
+    ],
+    "tone": "irónico",
+    "style": "narrativo",
+    "language": "en",
+    "isbn": "9780142437179",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "year": 2011,
+    "rating": 4.17,
+    "num_ratings": "500,000+",
+    "genres": [
+      "Psicología"
+    ],
+    "subgenres": [
+      "Psicología cognitiva"
+    ],
+    "themes": [
+      "toma de decisiones",
+      "sesgos",
+      "mente"
+    ],
+    "emotion_tags": [
+      "interés",
+      "descubrimiento"
+    ],
+    "tone": "analítico",
+    "style": "ensayo",
+    "language": "en",
+    "isbn": "9780374533557",
+    "source": "Goodreads"
+  },
+  {
+    "title": "The Art of Happiness",
+    "author": "Dalai Lama",
+    "year": 1998,
+    "rating": 4.12,
+    "num_ratings": "150,000+",
+    "genres": [
+      "Psicología"
+    ],
+    "subgenres": [
+      "Psicología emocional"
+    ],
+    "themes": [
+      "felicidad",
+      "budismo",
+      "equilibrio emocional"
+    ],
+    "emotion_tags": [
+      "paz",
+      "inspiración"
+    ],
+    "tone": "sereno",
+    "style": "conversacional",
+    "language": "en",
+    "isbn": "9781573221115",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Kitchen Confidential",
+    "author": "Anthony Bourdain",
+    "year": 2000,
+    "rating": 4.26,
+    "num_ratings": "350,000+",
+    "genres": [
+      "Gastronomía"
+    ],
+    "subgenres": [
+      "Crónica culinaria"
+    ],
+    "themes": [
+      "vida en la cocina",
+      "experiencias personales",
+      "sabores"
+    ],
+    "emotion_tags": [
+      "sorpresa",
+      "crudeza"
+    ],
+    "tone": "irónico",
+    "style": "autobiográfico",
+    "language": "en",
+    "isbn": "9780060899226",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Being and Time",
+    "author": "Martin Heidegger",
+    "year": 1927,
+    "rating": 4.03,
+    "num_ratings": "18,000+",
+    "genres": [
+      "Filosofía"
+    ],
+    "subgenres": [
+      "Filosofía de la ciencia"
+    ],
+    "themes": [
+      "existencia",
+      "tiempo",
+      "ser"
+    ],
+    "emotion_tags": [
+      "reflexión",
+      "confusión"
+    ],
+    "tone": "profundo",
+    "style": "denso",
+    "language": "en",
+    "isbn": "9780631197706",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Leaves of Grass",
+    "author": "Walt Whitman",
+    "year": 1855,
+    "rating": 4.15,
+    "num_ratings": "95,000+",
+    "genres": [
+      "Poesía"
+    ],
+    "subgenres": [
+      "Poesía visual"
+    ],
+    "themes": [
+      "naturaleza",
+      "individualismo",
+      "vida"
+    ],
+    "emotion_tags": [
+      "asombro",
+      "libertad"
+    ],
+    "tone": "épico",
+    "style": "verso libre",
+    "language": "en",
+    "isbn": "9780451527127",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Into the Wild",
+    "author": "Jon Krakauer",
+    "year": 1996,
+    "rating": 4.0,
+    "num_ratings": "950,000+",
+    "genres": [
+      "Aventura"
+    ],
+    "subgenres": [
+      "Supervivencia"
+    ],
+    "themes": [
+      "naturaleza",
+      "libertad",
+      "autenticidad"
+    ],
+    "emotion_tags": [
+      "soledad",
+      "búsqueda"
+    ],
+    "tone": "melancólico",
+    "style": "narrativo",
+    "language": "en",
+    "isbn": "9780385486804",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "year": 180,
+    "rating": 4.25,
+    "num_ratings": "300,000+",
+    "genres": [
+      "Filosofía"
+    ],
+    "subgenres": [
+      "Estoicismo"
+    ],
+    "themes": [
+      "autocontrol",
+      "vida",
+      "virtud"
+    ],
+    "emotion_tags": [
+      "sabiduría",
+      "serenidad"
+    ],
+    "tone": "reflexivo",
+    "style": "aforístico",
+    "language": "en",
+    "isbn": "9780812968255",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Salt: A World History",
+    "author": "Mark Kurlansky",
+    "year": 2002,
+    "rating": 4.05,
+    "num_ratings": "43,000+",
+    "genres": [
+      "Gastronomía"
+    ],
+    "subgenres": [
+      "Historia de la comida"
+    ],
+    "themes": [
+      "cultura",
+      "economía",
+      "sal"
+    ],
+    "emotion_tags": [
+      "asombro",
+      "curiosidad"
+    ],
+    "tone": "informativo",
+    "style": "ensayo histórico",
+    "language": "en",
+    "isbn": "9780142001615",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Love Poems",
+    "author": "Pablo Neruda",
+    "year": 1952,
+    "rating": 4.38,
+    "num_ratings": "65,000+",
+    "genres": [
+      "Poesía"
+    ],
+    "subgenres": [
+      "Lírica amorosa"
+    ],
+    "themes": [
+      "amor",
+      "pasión",
+      "naturaleza"
+    ],
+    "emotion_tags": [
+      "romanticismo",
+      "nostalgia"
+    ],
+    "tone": "intenso",
+    "style": "lírico",
+    "language": "es",
+    "isbn": "9780811217293",
+    "source": "Goodreads"
+  },
+  {
+    "title": "In Patagonia",
+    "author": "Bruce Chatwin",
+    "year": 1977,
+    "rating": 4.02,
+    "num_ratings": "28,000+",
+    "genres": [
+      "Aventura"
+    ],
+    "subgenres": [
+      "Viajes"
+    ],
+    "themes": [
+      "descubrimiento",
+      "naturaleza",
+      "exploración"
+    ],
+    "emotion_tags": [
+      "libertad",
+      "curiosidad"
+    ],
+    "tone": "contemplativo",
+    "style": "crónica de viajes",
+    "language": "en",
+    "isbn": "9780142437193",
+    "source": "Goodreads"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "year": 2011,
+    "rating": 4.16,
+    "num_ratings": "420,000+",
+    "genres": [
+      "Psicología"
+    ],
+    "subgenres": [
+      "Psicología cognitiva"
+    ],
+    "themes": [
+      "toma de decisiones",
+      "sesgos",
+      "cognición"
+    ],
+    "emotion_tags": [
+      "interés",
+      "sorprendente"
+    ],
+    "tone": "analítico",
+    "style": "ensayo científico",
+    "language": "en",
+    "isbn": "9780374533557",
+    "source": "Goodreads"
+  }
+]
