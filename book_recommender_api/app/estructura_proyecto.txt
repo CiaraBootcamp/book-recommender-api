@@ -1,0 +1,13 @@
+.
+├── books_controller.py
+├── database.py
+├── estructura_proyecto.txt
+├── explain.py
+├── main.py
+├── models.py
+├── personality.py
+├── profile.py
+├── quiz.py
+└── recommender.py
+
+1 directory, 10 files
