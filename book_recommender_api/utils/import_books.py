@@ -1,35 +1,32 @@
 # import_books.py
-# utils/import_books.py
-
 import json
-from pymongo import MongoClient
 import os
 from dotenv import load_dotenv
+from book_recommender_api.app.database import get_books_collection
 
+# Cargar variables de entorno
 load_dotenv()
 
-# Configuración de MongoDB
-MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017")
-client = MongoClient(MONGO_URI)
-db = client["book_recommender"]
-collection = db["books"]
+# Obtener colección
+books_col = get_books_collection()
 
-# Ruta del archivo JSON
-BOOKS_FILE = os.path.join(os.path.dirname(__file__), "..", "data", "books_all_335.json")
+# ✅ NUEVA ruta al archivo enriquecido
+BOOKS_FILE = os.path.join(os.path.dirname(__file__), "..", "data", "books_openlibrary_enriched.json")
 
-# Cargar libros y añadirlos a la colección
 def import_books():
+    # Leer archivo
     with open(BOOKS_FILE, "r", encoding="utf-8") as f:
         books = json.load(f)
 
+    # Validar
     if not isinstance(books, list):
         raise ValueError("El archivo JSON debe contener una lista de libros.")
 
-    # Opcional: limpiar la colección antes de insertar
-    collection.delete_many({})
+    # Limpiar colección anterior
+    books_col.delete_many({})
 
     # Insertar libros
-    result = collection.insert_many(books)
+    result = books_col.insert_many(books)
     print(f"✅ {len(result.inserted_ids)} libros importados correctamente.")
 
 if __name__ == "__main__":
