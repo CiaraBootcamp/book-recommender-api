@@ -1,0 +1,27 @@
+.
+├── book_recommender_api
+│   ├── app
+│   │   ├── books_controller.py
+│   │   ├── database.py
+│   │   ├── estructura_proyecto.txt
+│   │   ├── explain.py
+│   │   ├── main.py
+│   │   ├── models.py
+│   │   ├── personality.py
+│   │   ├── profile.py
+│   │   ├── quiz.py
+│   │   └── recommender.py
+│   ├── data
+│   │   └── books_all_335.json
+│   ├── requirements.txt
+│   └── utils
+│       ├── create_project_structure.py
+│       ├── import_books.py
+│       ├── merge_books.py
+│       └── validate_books.py
+├── .env
+├── estructura_proyecto.txt
+├── .gitignore
+└── README.md
+
+5 directories, 20 files
